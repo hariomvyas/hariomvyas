@@ -1,6 +1,6 @@
-# Welcome to Hariom's Awesome Profile! 🚀
+# Welcome to My Awesome Profile! 🚀
 
-![Profile Banner](https://your-awesome-profile-image-link.jpg)
+![Profile Banner](./github-header-image.png)
 
 ## Hey there, fellow coder! 👋
 
