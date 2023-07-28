@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s Awesome Profile! 🚀
+# Welcome to Hariom's Awesome Profile! 🚀
 
 ![Profile Banner](https://your-awesome-profile-image-link.jpg)
 
@@ -8,29 +8,29 @@ Thanks for dropping by my GitHub profile. I'm excited to have you here! Let's di
 
 ## About Me
 
-I'm [Your Name], a passionate and adventurous software developer on a mission to conquer the digital realm. With a background in computer science and a heart filled with curiosity, I love to tinker with code, craft cool projects, and create magic in the virtual world.
+I'm Hariom Vyas, a passionate and adventurous software developer and a Product Manager on a mission to conquer the digital realm. With a background in computer engineering and data science and a heart filled with curiosity, I love to tinker with code, craft cool projects, and create magic in the virtual world.
 
 ## 💻 Tech Stack
 
-- Languages: JavaScript (Node.js, React), Python, Java
+- Languages: JavaScript (React), Python
 - Databases: PostgreSQL, MongoDB
 - Tools: Git, Docker, VS Code, IntelliJ
-- Cloud: AWS, Azure
+- Cloud: AWS, Azure, Google Cloud Platform, Heroku
 - And more cool stuff I'm constantly adding to my repertoire!
 
 ## 🚀 What I'm Up To
 
 I'm always on the lookout for exciting challenges to push my boundaries. Currently, I'm working on:
 
-- 🌐 Building scalable web applications with React and Node.js.
+- 🌐 Building scalable web applications with wordpress.
 - 🤖 Exploring the fascinating world of AI and ML.
 - 📚 Contributing to open-source projects that make a difference.
 
 ## 🏆 Achievements
 
-- 🥇 Developed a productivity app that reached 100K downloads worldwide.
-- 🏅 Received the "Code Ninja" award at a hackathon for an innovative solution.
-- 📝 Published tech articles in leading tech blogs and magazines.
+- 🥇 Developed a student community app that reached 5K downloads worldwide.
+- 🏅 Received funding from Student Startup Innovation Program for my startup idea.
+- 📝 Published tech articles and tutorials on tech and entertainment.
 
 ## 🔍 What I'm Looking For
 
@@ -45,10 +45,6 @@ I believe that great ideas come from great discussions. So, feel free to reach o
 - 📣 Discuss the latest trends in tech and brainstorm futuristic concepts.
 - 🎮 Find someone to join your gaming squad - let's bring our A-game!
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ## 🎉 Let's Create Something Awesome Together!
 
 Thank you for stopping by and getting to know me. If you're as thrilled about tech as I am, let's embark on this exciting journey together! Hit that "Follow" button and let's make magic happen! ✨
@@ -61,4 +57,4 @@ _Keep coding, keep dreaming!_ 😊
 
 ---
 
-*Note: This Readme.md template is designed with love and a sprinkle of coding magic by [Your Name]. Feel free to use it as a starting point for your own awesome GitHub profile!* 🌟
+*Note: This Readme.md template is designed with love and a sprinkle of coding magic by Hariom Vyas. Feel free to use it as a starting point for your own awesome GitHub profile!* 🌟
