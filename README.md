@@ -1,14 +1,12 @@
 # Welcome to My Awesome Profile! 🚀
 
-![Profile Banner](./github-header-image.png)
-
 ## Hey there, fellow coder! 👋
 
 Thanks for dropping by my GitHub profile. I'm excited to have you here! Let's dive in and explore the tech wonderland that awaits you. 🌟
 
 ## About Me
 
-I'm Hariom Vyas, a passionate and adventurous software developer and a Product Manager on a mission to conquer the digital realm. With a background in computer engineering and data science and a heart filled with curiosity, I love to tinker with code, craft cool projects, and create magic in the virtual world.
+I'm Hariom Vyas, a passionate and adventurous software Engineer / Data Engineer / Product Manager on a mission to conquer the digital realm. With a background in computer engineering and data science and a heart filled with curiosity, I love to tinker with code, craft cool projects, and create magic in the virtual world.
 
 ## 💻 Tech Stack
 
@@ -22,7 +20,7 @@ I'm Hariom Vyas, a passionate and adventurous software developer and a Product M
 
 I'm always on the lookout for exciting challenges to push my boundaries. Currently, I'm working on:
 
-- 🌐 Building scalable web applications with wordpress.
+- 🌐 Building scalable web applications with Python & wordpress.
 - 🤖 Exploring the fascinating world of AI and ML.
 - 📚 Contributing to open-source projects that make a difference.
 
